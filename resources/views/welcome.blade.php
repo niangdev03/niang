@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Ibrahima Niang , welcome back</h1>
+    <h1>Ibrahima Niang</h1>
 </body>
 </html>
