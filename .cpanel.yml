@@ -1,6 +1,7 @@
 ---
 deployment:
   tasks:
+    - echo "Déploiement Debut processus..."
     - export DEPLOYPATH=/home/wepu1530/deploiement
     - /bin/cp -R app $DEPLOYPATH
     - /bin/cp -R bootstrap $DEPLOYPATH
